@@ -38,4 +38,4 @@ Three models were trained and evaluated on the test set. The results demonstrate
 | **Accuracy** | 0.9035 | 0.9630 | **0.9930** |
 | **Recall** | 0.6074 | 0.9417 | **0.9847** |
 | **F1-Score** | 0.6723 | 0.8924 | **0.9787** |
-| **ROC AUC** | *Not Calculated
+
