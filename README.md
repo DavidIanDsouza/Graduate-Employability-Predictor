@@ -4,7 +4,7 @@
 
 ## 🌟 Introduction
 
-This project investigates and compares three distinct machine learning models—**Logistic Regression**, **Decision Trees**, and a **Neural Network**—for the critical task of **predicting graduate employability**.
+This project investigates and compares three distinct machine learning models, **Logistic Regression**, **Decision Trees**, and a **Neural Network**, for the critical task of **predicting graduate employability**.
 
 By implementing and rigorously evaluating their performance metrics (including Accuracy, Recall, and F1-Score) on a standardized dataset, we aim to identify the most effective and robust model for this binary classification challenge.
 
